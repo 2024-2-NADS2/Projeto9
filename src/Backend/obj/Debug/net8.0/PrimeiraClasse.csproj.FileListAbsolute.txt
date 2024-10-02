@@ -1,0 +1,14 @@
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.exe
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.deps.json
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.runtimeconfig.json
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.dll
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\bin\Debug\net8.0\PrimeiraClasse.pdb
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.AssemblyInfoInputs.cache
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.AssemblyInfo.cs
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.dll
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\refint\PrimeiraClasse.dll
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.pdb
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\PrimeiraClasse.genruntimeconfig.cache
+C:\Users\luizb\source\repos\PrimeiraClasse\PrimeiraClasse\obj\Debug\net8.0\ref\PrimeiraClasse.dll
