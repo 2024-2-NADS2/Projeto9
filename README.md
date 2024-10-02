@@ -36,7 +36,7 @@ Esse projeto atende a uma demanda crescente por iniciativas que combinem tecnolo
 &emsp;|-->Front.png<br>
 |-->src<br>
   &emsp;|-->Backend<br>
-     &emsp;|-->PetHero.sln<br>
+     &emsp;|-->.sln<br>
   &emsp;|-->Frontend<br>
      &emsp;|-->main.js<br>
       &emsp;|-->styles.html<br>
