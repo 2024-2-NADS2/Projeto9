@@ -33,7 +33,7 @@ Esse projeto atende a uma demanda crescente por iniciativas que combinem tecnolo
 |-->documentos<br>
   &emsp;|-->Requisitos_Funcionais-NaoFuncionais.pdf<br>
 |-->imagens<br>
-&emsp;|-->Pagina_Home.png<br>
+&emsp;|-->Front.png<br>
 |-->src<br>
   &emsp;|-->Backend<br>
      &emsp;|-->PetHero.sln<br>
