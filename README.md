@@ -8,7 +8,7 @@
 
 ## Nome do Grupo - FINDING PET
 
-## Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli-305449262/">Anie Augusto Bissoli</a>, <a href="https://www.linkedin.com/in/deborah-colicchio/">Deborah Pavanelli Colicchio</a>, <a href="">Lucas Gomes de Souza</a>, <a href="https://www.linkedin.com/in/matheus-antero-05646a225/">Matheus Antero da Silva</a>
+## Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli-305449262/">Anie Augusto Bissoli</a>, <a href="https://www.linkedin.com/in/deborah-colicchio/">Deborah Pavanelli Colicchio</a>, <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Lucas Gomes de Souza</a>, <a href="https://www.linkedin.com/in/matheus-antero-05646a225/">Matheus Antero da Silva</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Savino</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Chico</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Boesso</a>
 
@@ -38,9 +38,9 @@ Esse projeto atende a uma demanda crescente por iniciativas que combinem tecnolo
   &emsp;|-->Backend<br>
      &emsp;|-->PetHero.sln<br>
   &emsp;|-->Frontend<br>
-     &emsp;|-->PetHero.js<br>
-      &emsp;|-->PetHero.html<br>
-       &emsp;|-->PetHero.css<br>
+     &emsp;|-->main.js<br>
+      &emsp;|-->styles.html<br>
+       &emsp;|-->index.css<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
