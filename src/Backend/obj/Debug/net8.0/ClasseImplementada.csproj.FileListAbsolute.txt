@@ -1,0 +1,14 @@
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\bin\Debug\net8.0\ClasseImplementada.exe
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\bin\Debug\net8.0\ClasseImplementada.deps.json
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\bin\Debug\net8.0\ClasseImplementada.runtimeconfig.json
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\bin\Debug\net8.0\ClasseImplementada.dll
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\bin\Debug\net8.0\ClasseImplementada.pdb
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.AssemblyInfoInputs.cache
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.AssemblyInfo.cs
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.csproj.CoreCompileInputs.cache
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.dll
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\refint\ClasseImplementada.dll
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.pdb
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ClasseImplementada.genruntimeconfig.cache
+C:\Users\luizb\source\repos\ClasseImplementada\ClasseImplementada\obj\Debug\net8.0\ref\ClasseImplementada.dll
