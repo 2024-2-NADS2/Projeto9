@@ -99,21 +99,50 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.1.1 - 01/10/2024
+    * Piloto página "_Home_" -  HTML & CSS;
+    * Design prototipado;
+
     * Trabalho em andamento
 
 ## 📋 Licença/License
-<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+Zoopi © 2024 by Annie Augusto Bissoli; Deborah Pavanelli Colicchio; Lucas Gomes de Souza; Matheus Antero da Silva is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
+HTML:
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS2/Projeto9">Zoopi</a> by <span property="cc:attributionName">Annie Augusto Bissoli; Deborah Pavanelli Colicchio; Lucas Gomes de Souza; Matheus Antero da Silva </span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+
+XML:
+[Uploadin<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/'>
+    <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+             xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'
+             xmlns:cc='http://creativecommons.org/ns#'xmlns:dc='http://purl.org/dc/elements/1.1/'>
+        <rdf:Description rdf:about=''>
+            <xapRights:Marked>True</xapRights:Marked>
+            <xapRights:Owner>
+                <rdf:Bag>
+                    <rdf:li>Annie Augusto Bissoli; Deborah Pavanelli Colicchio; Lucas Gomes de Souza; Matheus Antero da Silva </rdf:li>
+                </rdf:Bag>
+            </xapRights:Owner>
+            <xapRights:WebStatement rdf:resource='https://github.com/2024-2-NADS2/Projeto9'/>
+            <xapRights:UsageTerms>
+                <rdf:Alt>
+                  <rdf:li xml:lang='x-default'>This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
+                  <rdf:li xml:lang='en-US' >This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
+                </rdf:Alt>
+            </xapRights:UsageTerms>
+            <cc:license rdf:resource='https://creativecommons.org/licenses/by-nc-sa/4.0/'/>
+            <cc:attributionName>Annie Augusto Bissoli; Deborah Pavanelli Colicchio; Lucas Gomes de Souza; Matheus Antero da Silva </cc:attributionName>
+            <dc:title>
+                <rdf:Alt>
+                  <rdf:li xml:lang='x-default'>Zoopi</rdf:li>
+                  <rdf:li xml:lang='en-US'>Zoopi</rdf:li>
+                </rdf:Alt>
+            </dc:title>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='r'?>g CC BY-NC-SA 4.0.xmp…]()
 
 ## 🎓 Referências
 
