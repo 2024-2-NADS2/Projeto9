@@ -19,7 +19,7 @@
                 }
                 else if (resposta == "sim")
                 {
-                    int idade = 0; // Inicializa a idade
+                    int idade = 0; 
 
                     // Lê a idade do Pet
                     while (true)
@@ -29,12 +29,11 @@
                             Console.WriteLine("Digite a idade do Pet: (apenas o número)");
                             idade = Convert.ToInt32(Console.ReadLine());
 
-                            // Verifica se a idade é um valor válido
                             if (idade <= 0)
                             {
                                 throw new ArgumentOutOfRangeException("A idade deve ser um número positivo.");
                             }
-                            break; // Saia do loop se a entrada for válida
+                            break;
                         }
                         catch (FormatException)
                         {
@@ -48,7 +47,7 @@
 
                     string raca, porte, cor, sexo;
 
-                    // Lê a raça do Pet
+                   
                     while (true)
                     {
                         try
@@ -59,15 +58,14 @@
                             {
                                 throw new ArgumentException("A raça não pode ser vazia.");
                             }
-                            break; // Saia do loop se a entrada for válida
+                            break; 
                         }
                         catch (ArgumentException e)
                         {
                             Console.WriteLine("Erro: " + e.Message);
                         }
                     }
-
-                    // Lê o porte do Pet
+                    
                     while (true)
                     {
                         try
@@ -78,7 +76,7 @@
                             {
                                 Console.WriteLine("O porte não pode ser vazio.");
                             }
-                            break; // Saia do loop se a entrada for válida
+                            break; 
                         }
                         catch (ArgumentException e)
                         {
@@ -86,7 +84,7 @@
                         }
                     }
 
-                    // Lê a cor do Pet
+                    
                     while (true)
                     {
                         try
@@ -97,7 +95,7 @@
                             {
                                 throw new ArgumentException("A cor não pode ser vazia.");
                             }
-                            break; // Saia do loop se a entrada for válida
+                            break; 
                         }
                         catch (ArgumentException e)
                         {
@@ -105,7 +103,6 @@
                         }
                     }
 
-                    // Lê o sexo do Pet
                     while (true)
                     {
                         try
@@ -116,7 +113,7 @@
                             {
                                 throw new ArgumentException("O sexo não pode ser vazio.");
                             }
-                            break; // Saia do loop se a entrada for válida
+                            break; 
                         }
                         catch (ArgumentException e)
                         {
@@ -124,10 +121,9 @@
                         }
                     }
 
-                    // Cria um novo pet com os dados fornecidos
+                  
                     Pet pet = new Pet(idade, raca, porte, cor, sexo);
 
-                    // Exibe os detalhes do pet
                     pet.ExibirDetalhes();
                 }
                 else
