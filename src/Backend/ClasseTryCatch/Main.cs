@@ -20,8 +20,7 @@
                 else if (resposta == "sim")
                 {
                     int idade = 0; 
-
-                    // Lê a idade do Pet
+                    
                     while (true)
                     {
                         try
