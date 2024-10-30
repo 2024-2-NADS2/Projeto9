@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cS4U6Bx1zmap6IOWFIBzSCQGSRCCIb9ey9d6nvwP9+YZhA2wc+9ObpfXpi7gO2+IH3iYvez/izj8nH84YBchcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\24025800\\source\\repos\\FindingPet\\FindingPet\\FindingPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24025800\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\24025800\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\24025800\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\24025800\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\24025800\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\24025800\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
