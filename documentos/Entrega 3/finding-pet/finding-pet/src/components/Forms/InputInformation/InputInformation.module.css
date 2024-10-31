@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.label {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.inputContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #fff3e6;
+    border: 1px solid #ff6600;
+    padding: 10px;
+    border-radius: 8px;
+    width: 350px;
+}
+
+.icon {
+    color: #ff6600;
+    margin-right: 8px;
+}
+
+.text {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+@media (max-width: 890px) {
+    .inputContainer {
+        width: 575px;
+    }
+}
+
+@media (max-width: 690px) {
+    .inputContainer {
+        width: 435px;
+    }
+}
+
+@media (max-width: 550px) {
+    .inputContainer {
+        width: 75vw;
+    }
+}

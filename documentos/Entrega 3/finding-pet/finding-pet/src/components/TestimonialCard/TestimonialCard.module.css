@@ -1,0 +1,158 @@
+.testimonialSection {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    position: relative;
+  }
+  
+  .fadeIn {
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .fadeOut {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .testimonialCard {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    background-color: #FEFDF7;
+    padding: 24px;
+    border: 2px solid #FE6B1B;
+    border-radius: 16px;
+  }
+  
+  .buttonsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 80px;
+    margin: 0 auto;
+    }
+
+  .button{
+      background-color: #FE6B1B;
+      border: none;
+      padding: 10px 30px;
+      border-radius: 10px;
+      color: white;
+      font-size: 18px;
+  }
+
+  .button:hover{
+      background-color: #ce5616;
+      transition: 0.3s;
+  }
+  
+  .testimonialText {
+    padding: 0px 16px 0px 16px;
+    line-height: 28px;
+  }
+  
+  .testimonialPersonData {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+  }
+  
+  .testimonialText p {
+    font-size: 16px;
+    color: #000;
+    white-space: pre-line;
+  }
+
+  .petImagesContainer{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+  }
+
+  .petImages {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .petImages img {
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .textImage {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  @media (max-width: 470px) {
+    .petImages {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+  @media (max-width: 545px) {
+    .petImages {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .testimonialSection {
+      text-align: start;
+      padding-left: 0px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .testimonialCard {
+      padding: 0;
+      padding-bottom: 24px;
+    }
+    .personImage {
+      display: none;
+    }
+  }
+
+  @media (max-width: 1000px) {
+    .textImage {
+      display: flex;
+      flex-direction: column !important;
+    }
+  }
+  
+  @media (max-width: 1475px) {
+    .testimonialSection h1 {
+      padding-left: 40px;
+    }
+  
+    .testimonialCard {
+      width: 90vw;
+    }
+  
+    .textImage {
+      display: flex;
+      flex-direction: row;
+    }
+  
+    .petImages {
+      grid-template-columns: repeat(2, 1fr);
+      width: 100%;
+      max-width: 600px;
+      gap: 10px;
+      margin: 0 auto;
+    }
+  
+  }
+  

@@ -1,0 +1,11 @@
+.cardSectionContainer{
+    display: flex;
+    justify-content: center;
+    gap: 125px;
+    flex-wrap: wrap;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    padding-top: 120px;
+
+}
