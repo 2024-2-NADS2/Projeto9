@@ -6,7 +6,7 @@
 
 # Projeto FindingPet
 
-## Nome do Grupo - FINDING PET
+## FindingPet
 
 ## Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli-305449262/">Anie Augusto Bissoli</a>, <a href="https://www.linkedin.com/in/deborah-colicchio/">Deborah Pavanelli Colicchio</a>, <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Lucas Gomes de Souza</a>, <a href="https://www.linkedin.com/in/matheus-antero-05646a225/">Matheus Antero da Silva</a>
 
