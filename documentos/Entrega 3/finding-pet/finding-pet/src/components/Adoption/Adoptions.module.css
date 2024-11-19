@@ -1,0 +1,70 @@
+.adoption_card{
+    padding: 0 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 64px;
+}
+
+.adoption_card h1{
+    display: flex;
+    text-align: center;
+    padding-bottom: 32px;
+}
+
+.adoption_card .card{
+    display: flex;
+    flex-direction: column;
+
+    border: 2px solid  #FE6B1B;
+    border-radius: 10px;
+    background-color: #FEFDF7;
+    margin: 0 auto;
+    width: 225px;
+    height: auto;
+    padding: 30px 30px;
+    margin-bottom: 20px;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+
+.cardContainer .card ul{
+    text-align: start;
+    list-style: none;
+    margin-left: -35px;
+} 
+
+
+.card li{
+    margin-bottom: 9px;
+}
+
+.adoption_card .card .adoptionButton {
+    background-color: #ff6a19;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+@media (max-width: 677px) {
+    .adoption_card h1{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+}

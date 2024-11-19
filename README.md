@@ -6,11 +6,11 @@
 
 # Projeto FindingPet
 
-## Nome do Grupo - FINDING PET
+## FindingPet
 
 ## Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli-305449262/">Anie Augusto Bissoli</a>, <a href="https://www.linkedin.com/in/deborah-colicchio/">Deborah Pavanelli Colicchio</a>, <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Lucas Gomes de Souza</a>, <a href="https://www.linkedin.com/in/matheus-antero-05646a225/">Matheus Antero da Silva</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Savino</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Chico</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Boesso</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/jbuesso/">Jose Carlos Buesso Junior</a>
 
 ## Descrição
 
