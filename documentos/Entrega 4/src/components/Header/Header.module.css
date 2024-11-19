@@ -1,0 +1,144 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 32px;
+    background-color: #FEFDF7;
+}
+
+.logoContainer {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+}
+
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.navigation ul{
+    display: flex;
+    gap: 24px;
+    flex-direction: row;
+    list-style: none;
+}
+.link {
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+}
+
+.link a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link a:hover {
+    color: #E07628;
+}
+
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+}
+
+.iconButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #000;
+}
+
+.icon {
+    font-size: 18px;
+}
+
+.iconButton:hover .icon {
+    color: #E07628;
+}
+
+
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 24px;
+}
+
+.hamburger:hover .icon {
+    color: #E07628;
+}
+
+@media (max-width: 425px) {
+    .header {
+        padding: 16px 5px;
+
+    }
+    .hamburger {
+        margin-left: -25px;
+    }
+
+    .navigation {
+        display: flex;
+        position: absolute;
+        top: 70px;
+        right: 0px;
+        background-color: #FEFDF7;
+        width: 110% !important;
+        text-align: center;
+        flex-direction: column;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-in-out; 
+    }
+}
+
+@media (max-width: 768px) {
+    .navigation {
+        display: flex;
+        position: absolute;
+        top: 70px;
+        right: 0px;
+        background-color: #FEFDF7;
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-in-out; 
+    }
+    .navigation.active {
+        max-height: 300px; 
+        
+    }
+
+    .navigation ul{
+        flex-direction: column;
+        gap: 0px;
+    }
+
+
+    .hamburger {
+        margin-left: -15px;
+        display: block; 
+        
+    }
+
+
+    .link {
+        padding: 16px 0;
+    }
+}
+
+
+

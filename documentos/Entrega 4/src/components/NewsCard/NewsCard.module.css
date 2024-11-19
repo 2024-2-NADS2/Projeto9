@@ -1,0 +1,150 @@
+.more_news {
+    display: flex;
+    flex-direction: column;
+    padding: 80px 0px;
+    flex-wrap: wrap;
+}
+
+.more_news h1 {
+    text-indent: 100px;
+} 
+
+.newsContainer {
+    align-self: center;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.newsContainer h1{
+    display: none;
+    margin-bottom: 20px;
+}
+
+.mainNews, .secondary_news {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #FE6B1B;
+    border-radius: 10px;
+    background-color: #FEFDF7;
+}
+
+.mainNews {
+    width: 605px;
+    height: 605px;
+}
+
+.mainNews img, .secondary_news img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8.5px;
+}
+
+.secondaryNewsContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.newsTitle {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    z-index: 2;
+    color: white;
+    font-size: 16px;
+
+}
+
+.secondary_news {
+    width: 295px;
+    height: 295px;
+    min-height: 295px;
+
+}
+
+.newsTitle h2 {
+    margin: 5px;
+    margin-bottom: 25px;
+    font-size: 1.2rem;
+}
+
+/* Gradiente */
+.newsOverlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent, transparent); 
+    z-index: 1; 
+    border-radius: 8.5px;
+}
+
+@media(max-width:545px){
+    .newsContainer h1 {
+        font-size: 6vw;
+    }
+}
+
+@media(max-width:730px){
+    .mainNews {
+        width: 83.5vw;
+        height: 83.5vw;
+    }
+    .secondary_news {
+        width: 83.5vw;
+        height: 83.5vw;
+        min-height: 83.5vw;
+    
+    }
+    .secondaryNewsContainer {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .newsTitle h2 {
+        font-size: 5vw;
+    }
+
+
+}
+
+@media(max-width:1236px){
+    .more_news h1{
+        text-indent: 0px !important;
+        display: none;
+    }
+    .newsContainer h1{
+        text-indent: 0px;
+        margin: 0px;
+        padding: 0px;
+        display: block;
+        text-align: center;
+    }
+
+
+
+    .newsContainer{
+        flex-direction: column;
+    }
+
+    .newsContainer {
+        gap: 2vw;
+    }
+    .secondaryNewsContainer{
+        gap: 1vw;
+    }
+}
+
+
+@media(max-width:1360px){
+    .more_news h1{
+        text-indent: 60px;
+    }
+
+}
