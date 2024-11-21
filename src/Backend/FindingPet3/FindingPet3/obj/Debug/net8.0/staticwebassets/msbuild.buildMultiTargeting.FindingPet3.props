@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FindingPet3.props" />
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindingPet3", "FindingPet3.csproj", "{DDB7B247-2C77-4868-A6C9-43B068CA0CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB7B247-2C77-4868-A6C9-43B068CA0CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7B247-2C77-4868-A6C9-43B068CA0CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7B247-2C77-4868-A6C9-43B068CA0CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7B247-2C77-4868-A6C9-43B068CA0CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FFC6158-1133-4AA9-B0B9-F2A6E6261CDE}
+	EndGlobalSection
+EndGlobal
